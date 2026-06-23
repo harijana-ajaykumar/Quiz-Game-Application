@@ -1,0 +1,11 @@
+Important Requirements
+
+- Build using HTML, CSS, and JavaScript
+- Display one question at a time
+- Add 10 multiple-choice questions
+- Include 15-second timer
+- Show progress bar
+- Calculate final score
+- Add Restart Quiz button
+- Make responsive design
+- Keep UI clean and user-friendly
